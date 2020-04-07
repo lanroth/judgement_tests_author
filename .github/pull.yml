@@ -4,6 +4,6 @@ rules:
     upstream: martinmphil:master
     mergeMethod: hardreset
 
-  - base: develop
-    upstream: martinmphil:develop
-    mergeMethod: hardreset
+#   - base: develop
+#     upstream: martinmphil:develop
+#     mergeMethod: hardreset
